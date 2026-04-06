@@ -24,7 +24,7 @@ export default function About() {
         <div className="pt-4 sm:pt-6 flex-1 min-w-0">
           <h1 className="text-slate-50 text-2xl mb-4">About me</h1>
           <p className="text-slate-200 leading-relaxed">
-            Hi, I&apos;m Rodvin Danaei, a previous geneticist falling in love with programming and now a Full-stack Developer, cloud advocate, data scientist, gamer, and a die-hard fan of all kinds of outdoor activities.
+            Hi, I&apos;m Rodvin Danaei — a full-stack developer and cloud architect with 7+ years of experience modernizing enterprise applications. I pivoted from plant biotechnology (M.Sc., Wageningen University) to computer science (B.Sc., University of Calgary), and now specialize in frontend architecture, microservices design, and AI-augmented software engineering. When I&apos;m not coding, you&apos;ll find me outdoors or gaming.
           </p>
         </div>
       </div>
