@@ -79,6 +79,9 @@ export default function Resume() {
             <a href="https://www.credly.com/badges/9cbf6658-9301-4380-9bc9-6f20277f1d1f/public_url" target="_blank" rel="noopener noreferrer" className="inline-block mr-4 mb-2">
               <Image src="/static/aws-certified-solutions-architect-associate.png" alt="AWS Solutions Architect Associate" width={80} height={80} className="h-20 w-auto max-w-full" />
             </a>
+            <a href="https://www.credly.com/badges/727fab06-deac-464d-9054-584cdd10d84c/public_url" target="_blank" rel="noopener noreferrer" className="inline-block mr-4 mb-2">
+              <Image src="/static/aws-certified-developer-associate.png" alt="AWS Certified Developer Associate" width={80} height={80} className="h-20 w-auto max-w-full" />
+            </a>
             <a href="https://www.credly.com/badges/debc0506-c300-4f21-8331-0ff07cf4a6f6/public_url" target="_blank" rel="noopener noreferrer" className="inline-block">
               <Image src="/static/project-management-professional-pmp.png" alt="PMP" width={80} height={80} className="h-20 w-auto max-w-full" />
             </a>
