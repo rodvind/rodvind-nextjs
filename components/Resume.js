@@ -4,7 +4,7 @@ import Tools from "./Tools";
 const experience = [
   {
     company: "Improving",
-    role: "Senior Frontend Consultant / AI-Augmented Modernization Architect",
+    role: "Senior Full-Stack Consultant / AI-Augmented Modernization Architect",
     date: "Aug 2022 – Present",
     bullets: [
       "Led the end-to-end modernization of a legacy monolith into a modular, domain-driven microservices ecosystem spanning Vue 3/TypeScript frontend and .NET backend services",
@@ -19,7 +19,7 @@ const experience = [
   },
   {
     company: "Improving",
-    role: "Frontend Developer",
+    role: "Lead Frontend Engineer",
     date: "Feb 2022 – Aug 2022",
     bullets: [
       "Developed customer-facing website and landing pages using React, TypeScript, and MUI, translating client requirements into production features",
